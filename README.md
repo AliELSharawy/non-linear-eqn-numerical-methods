@@ -1,4 +1,4 @@
-### non-linear-eqn-numerical-methods
+# non-linear-eqn-numerical-methods
 solving non linear equations using numerical methods using Angular Framework:
 1. Bisection
 2. False-Position
