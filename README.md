@@ -6,4 +6,4 @@ solving non linear equations using numerical methods using Angular Framework:
 4. Newton-Raphson
 5. Secant Method.
 
-[Root-Finder.pdf](https://github.com/AliELSharawy/non-linear-eqn-numerical-methods/files/8628054/Root-Finder.pdf)
+[Numerical Methods Project - Phase II.pdf](https://github.com/AliELSharawy/non-linear-eqn-numerical-methods/files/8628054/Root-Finder.pdf)
